@@ -54,3 +54,4 @@ This module supports the following parameters (see the section `params.modules` 
 [conventionalcommits]: https://www.conventionalcommits.org
 [husky]: https://typicode.github.io/husky/
 [semantic-release]: https://semantic-release.gitbook.io/
+
